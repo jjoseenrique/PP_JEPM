@@ -1,4 +1,4 @@
-# Supporting Methods 2: Reproducible Analysis Code
+# Reproducible Analysis Code
 
 ## Overview
 
