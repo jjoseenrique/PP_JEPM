@@ -420,7 +420,7 @@ lgd_cor <- Legend(
 
 # --- Create legend for garden annotations ---
 lgd_garden <- Legend(
-  title = "Common Garden",
+  title = "GARDEN_ID",
   labels = names(garden_colors),
   legend_gp = gpar(fill = garden_colors),
   direction = "horizontal",
@@ -451,4 +451,5 @@ draw(
 # ============================================================================
 # END OF SCRIPT
 # ============================================================================
+
 
