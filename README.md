@@ -392,7 +392,7 @@ And reference this repository and data archive:
 
 For questions regarding these analyses, contact:
 - **Primary Contact:** José E. Pérez-Martín (jepm@uma.es)
-- **Corresponding Authors:** Sonia Osorio & David Posé
+- **Corresponding Authors:** Sonia Osorio (sosorio@uma.es) & David Posé (dpose@uma.es)
 - **Supervision:** Dries Bonte, Femke Batsleer & Martijn L. Vandegehuchte
 
 ## License
