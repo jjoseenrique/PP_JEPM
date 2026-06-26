@@ -380,13 +380,13 @@ source("scripts/7.-ICC_latitude_regression.R")
 
 ## Citation
 
->To be determined
+> Pérez-Martín JE, Batsleer F, Vandegehuchte ML, Bonte D, Osorio S & Posé D (2026). Variation in phenotypic plasticity of metabolic and performance traits along a latitudinal gradient in woodland strawberry. *BMC Plant Biology*, 26. https://doi.org/10.1186/s12870-026-09236-9
 
 And reference this repository and data archive:
 
 > Reproducible code and data available at: https://github.com/jjoseenrique/PP_JEPM
 > 
-> Raw data deposited in Zenodo: https://doi.org/[ZENODO_DOI]
+> Raw data deposited in Zenodo: https://doi.org/10.5281/zenodo.20640164
 
 ## Contact & Support
 
@@ -401,7 +401,7 @@ This code is provided under the [MIT License](LICENSE)
 
 ---
 
-**Last Updated:** November 2025  
+**Last Updated:** June 2026
 **R Version Used:** 4.3.1  
 **Status:** Complete and tested  
 **Total Scripts:** 7  
